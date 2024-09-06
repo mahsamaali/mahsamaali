@@ -1,33 +1,5 @@
 <title>About Me - Mahsa Maali</title>
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    padding: 20px;
-  }
-  h1 {
-    color: #2c3e50;
-  }
-  p {
-    color: #34495e;
-    font-size: 18px;
-    line-height: 1.6;
-    background-color: #ecf0f1;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  textarea {
-    width: 100%;
-    height: 150px;
-    border: 2px solid #bdc3c7;
-    padding: 10px;
-    font-size: 16px;
-    border-radius: 5px;
-    background-color: #ecf0f1;
-  }
-</style>
-
 <h1>About Me</h1>
 
 <p>
